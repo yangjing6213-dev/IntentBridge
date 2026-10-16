@@ -1,0 +1,6 @@
+interface:
+  display_name: "无损传达 Skill"
+  short_description: "用整体小样、局部纠偏和共识交接，减少需求理解偏差，保留已确认的关键要求"
+  default_prompt: "请使用 $lossless-intent 处理当前需求。存在重要歧义时先展示整体小样，只确认关键分歧；明确任务直接完成，不固定沟通轮数。"
+policy:
+  allow_implicit_invocation: true

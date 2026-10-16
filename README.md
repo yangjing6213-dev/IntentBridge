@@ -5,6 +5,7 @@
 你可能说“简单一点”，AI 却理解成“少放几个按钮”，结果反而不知道下一步该做什么。无损传达会引导 AI 先展示它的整体理解，再根据你的反馈修正关键部分，并把已经确认的内容整理出来。
 
 ![Agent Skills 格式](https://img.shields.io/badge/格式-Agent%20Skills-3F51B5) ![当前版本](https://img.shields.io/badge/版本-1.0.0-blue)
+[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/yangjing6213-dev/IntentBridge) [![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)](https://github.com/yangjing6213-dev/IntentBridge)
 
 > 本仓库暂时没有许可证文件，因此不展示许可证徽章；复用、修改和商业使用权限也尚未由仓库文件说明。
 
